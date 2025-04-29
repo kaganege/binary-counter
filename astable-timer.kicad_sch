@@ -1584,7 +1584,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3349bf59-0284-4cc5-9b76-4517a375724d")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR06"
 			(at 144.78 86.36 0)
 			(effects
 				(font
@@ -1634,7 +1634,7 @@
 		(instances
 			(project "binary-counter"
 				(path "/9e6266cd-e24f-42f0-b90b-fa538571aa1c/d0a30e76-12cc-45f8-aea3-739e867bcd29"
-					(reference "#PWR012")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -1720,7 +1720,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ce7d260-b924-49d5-adba-7430a5314641")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 146.9233 86.36 0)
 			(effects
 				(font
@@ -1792,7 +1792,7 @@
 		(instances
 			(project "binary-counter"
 				(path "/9e6266cd-e24f-42f0-b90b-fa538571aa1c/d0a30e76-12cc-45f8-aea3-739e867bcd29"
-					(reference "U1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -1808,7 +1808,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90366de5-b849-43b8-86a3-ea15ec111e0f")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR07"
 			(at 144.78 121.92 0)
 			(effects
 				(font
@@ -1858,7 +1858,7 @@
 		(instances
 			(project "binary-counter"
 				(path "/9e6266cd-e24f-42f0-b90b-fa538571aa1c/d0a30e76-12cc-45f8-aea3-739e867bcd29"
-					(reference "#PWR013")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
